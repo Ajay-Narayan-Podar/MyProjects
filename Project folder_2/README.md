@@ -1,1 +1,1 @@
-
+This "Project folder_2" contains a python file(my project) in which I load an excel file into postgres service understanding about the data transformation required to push the data into the postgres and how it can be performed.
